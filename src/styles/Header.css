@@ -1,0 +1,9 @@
+.a__header {
+  width: 100%;
+  display: flex;
+  justify-content: space-around; }
+  .a__header a {
+    width: 110px;
+    font-size: 20px; }
+
+/*# sourceMappingURL=Header.css.map */
